@@ -1,4 +1,4 @@
-# Pages CMS
+# Pages CMS (customized for Next.js)
 
 [Pages CMS](https://pagescms.org) is an Open Source Content Management System built for static websites (Jekyll, Next.js, VuePress, Hugo, etc).
 
