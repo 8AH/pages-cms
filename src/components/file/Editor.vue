@@ -406,6 +406,9 @@ const save = async () => {
     content = model.value;
   }
   
+  // This is not a test, this is rock n roll
+  content = '"'content'"'
+  
   try {
     // If it's a new file, we need to generate a filename
     if (!sha.value) {
